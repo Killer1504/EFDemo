@@ -1,0 +1,44 @@
+[
+  {
+    "FirstName": "StrickLand1",
+    "LastName": "Boone1",
+    "Age": 30,
+    "Addresses": [
+      {
+        "StreetAddress": "Grattan Streed1",
+        "City": "New York1",
+        "State": "South America1",
+        "ZipCode": "15740-0000"
+      }
+    ],
+    "EmailAddresses": [
+      {
+        "EmailAddress": "thanhhungbkhn2@gmail1.com"
+      },
+      {
+        "EmailAddress": "thanhhungbkhn2@gmail.com"
+      }
+    ]
+  },
+  {
+    "FirstName": "StrickLand2",
+    "LastName": "Boone2",
+    "Age": 30,
+    "Addresses": [
+      {
+        "StreetAddress": "Grattan Streed2",
+        "City": "New York2",
+        "State": "South America",
+        "ZipCode": "15740-0000"
+      }
+    ],
+    "EmailAddresses": [
+      {
+        "EmailAddress": "thanhhungbkhn2@gmail1.com"
+      },
+      {
+        "EmailAddress": "thanhhungbkhn2@gmail.com"
+      }
+    ]
+  }
+]
